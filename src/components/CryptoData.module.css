@@ -1,0 +1,25 @@
+.header1{
+ text-align: center;
+}
+.name{
+ text-align: center;
+}
+.header2{
+ text-align: center;
+}
+.symbol{
+ text-align: center;
+}
+.price{
+ text-align: center;
+}
+.container{
+ background-color: grey;
+ background-clip: content-box;
+ width: 500px;
+margin: auto;
+border: 10px solid white;
+}
+.Headers{
+ color: aliceblue;
+}
